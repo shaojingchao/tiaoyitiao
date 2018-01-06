@@ -63,6 +63,9 @@ def set_button_position(im):
     swipe_x1, swipe_y1, swipe_x2, swipe_y2 = left, top, left, top
 
 
+
+
+
 def jump(distance):
     """
     跳跃一定的距离
